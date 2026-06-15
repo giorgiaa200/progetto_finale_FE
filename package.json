@@ -1,0 +1,22 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.0.12"
+  },
+  "dependencies": {
+    "@just-dom/router": "^1.1.0",
+    "@just-dom/signals": "^1.1.0",
+    "@tailwindcss/vite": "^4.3.0",
+    "daisyui": "^5.5.23",
+    "just-dom": "^2.1.2",
+    "tailwindcss": "^4.3.0"
+  }
+}
